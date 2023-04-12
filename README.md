@@ -4,7 +4,6 @@
 
 - <b>Data Structures and Algorithms Practice</b>
 - <b>Full Stack Web App</b>
-- <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
 
