@@ -1,8 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm David! <br/>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice</b>
+- <b>Full Stack Web App</b>
+- <b>PowerShell</b>
+- <b>C# (.NET Desktop Applications)</b>
+- <b>Python</b>
+
+<h2>🎮 Game Development Projects:</h2>
+
+- <b>Unity</b>
+  - [Tip-ity Top!](https://ddev101.itch.io/tip-pity-top) <b>Created for a Game Jam<b>
+- <b>Unreal</b>
+  - [Tunnel Rush](https://ddev101.itch.io/tunnel-rush)
+
+<h2>📜 Certifications </h2>
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/
 
 <!--
-**DDev101/DDev101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
