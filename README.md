@@ -10,7 +10,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Unity</b>
-  - [Tip-ity Top!](https://ddev101.itch.io/tip-pity-top) <b>Created for a Game Jam<b>
+  - [Tip-ity Top!](https://ddev101.itch.io/tip-pity-top) *Created for a Game Jam*
 - <b>Unreal</b>
   - [Tunnel Rush](https://ddev101.itch.io/tunnel-rush)
 
