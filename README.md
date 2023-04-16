@@ -11,7 +11,7 @@
 
 - <b>Unity</b>
   - [Tip-ity Top!](https://ddev101.itch.io/tip-pity-top) *Created for a Game Jam*
-  - [UnityLuaScript](https://ddev101.itch.io/tip-pity-top) *A plugin for unity that allows you to use Lua*
+  - [UnityLuaScript](https://github.com/DDev101/UnityLuaScript) *A plugin for unity that allows you to use Lua*
 - <b>Unreal</b>
   - [Tunnel Rush](https://ddev101.itch.io/tunnel-rush) *Created on my free time*
 
