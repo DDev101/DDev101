@@ -10,6 +10,8 @@
   - [Tip-ity Top!](https://ddev101.itch.io/tip-pity-top) *Created for a Game Jam*
     ![Tip-ity Top! Gallery](/Images/Tip-ityTopGallery.png?raw=true "Tip-ity Top! Gallery")
   - [UnityLuaScript](https://github.com/DDev101/UnityLuaScript) *A plugin for Unity that allows you to use Lua within Unity*
+  
+    ![Lua Gallery](/Images/LuaGallery.png?raw=true "Lua Gallery")
 - <b>Unreal</b>
   - [Tunnel Rush](https://ddev101.itch.io/tunnel-rush) *Created on my free time*
   ![TunnelRush Gallery](/Images/TunnelRushGallery.png?raw=true "TunnelRush Gallery")
@@ -19,7 +21,7 @@
 - <b>Game Development Opportunities</b>
   - Would love to work with a dedicated team at a company to make games with!
 - <b>Software Development Opportunities</b>
-  - Would appreciate the opportunity to work on great software, tools, backend, and more to help my team I work with get things done quickly and effectively!
+  - Would appreciate the opportunity to work on great software, tools, backend, and more to help my team get things done quickly and effectively!
 
 <!--
 TODO:
@@ -30,15 +32,4 @@ TODO:
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
