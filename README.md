@@ -1,12 +1,4 @@
 <h1>Hi, I'm David! <br/>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice</b>
-- <b>Full Stack Web App</b>
-- <b>C# (.NET Desktop Applications)</b>
-- <b>Python</b>
-
 <h2>🎮 Game Development Projects:</h2>
 
 - <b>Unity</b>
