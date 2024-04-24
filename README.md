@@ -3,6 +3,8 @@
   I'm also in the early stages of experimenting with my own Game Engine in c++</p>
   
   <p> Some languages I've used are <b>C#, C++, Java, Lua,</b> and I'm always learning more!</p>
+
+I've also been contributing to open-source projects such as [Ubisoft Sharpmake](https://github.com/ubisoft/Sharpmake) and [Wicked Engine](https://github.com/turanszkij/WickedEngine)
   
 <h2>🎮 Game Development Projects:</h2>
 
