@@ -1,6 +1,6 @@
 <h1>Hi, I'm David! </h1>
   <p> I love programming! And I like learning new technologies, such as Game Engines like Unity, UnrealEngine, O3DE and more!
-  I have also been working on my own Game Engine in C++ for the past year</p>
+  I have also been working on my own Game Engine in C++ for the couple past years</p>
   
   <p> Some languages I've used are <b>C#, C++, Java, Lua,</b> and I'm always learning more!</p>
 
